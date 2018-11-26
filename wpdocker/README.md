@@ -1,1 +1,1 @@
-test
+Wordpress Docker Compose example.
